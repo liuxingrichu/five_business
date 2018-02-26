@@ -1,10 +1,10 @@
 ## 个人篇 ##
 ### 高效能人士的七种习惯 ###
-- [思维转换]()
-- [成熟模式图]()
-- [积极主动]()
-- [以终为始]()
-- [要事第一]()
+- [思维转换](https://github.com/liuxingrichu/five_business/blob/master/person/day131-day135.md)
+- [成熟模式图](https://github.com/liuxingrichu/five_business/blob/master/person/day131-day135.md)
+- [积极主动](https://github.com/liuxingrichu/five_business/blob/master/person/day131-day135.md)
+- [以终为始](https://github.com/liuxingrichu/five_business/blob/master/person/day131-day135.md)
+- [要事第一](https://github.com/liuxingrichu/five_business/blob/master/person/day131-day135.md)
 - [双赢思维]()
 - [知彼解己]()
 - [统合综效]()
