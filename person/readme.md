@@ -7,9 +7,9 @@
 - [要事第一](https://github.com/liuxingrichu/five_business/blob/master/person/day131-day135.md)
 - [双赢思维](https://github.com/liuxingrichu/five_business/blob/master/person/day136-day140.md)
 - [知彼解己](https://github.com/liuxingrichu/five_business/blob/master/person/day136-day140.md)
-- [统合综效]()
-- [不断更新]()
-- [习惯]()
+- [统合综效](https://github.com/liuxingrichu/five_business/blob/master/person/day136-day140.md)
+- [不断更新](https://github.com/liuxingrichu/five_business/blob/master/person/day136-day140.md)
+- [习惯](https://github.com/liuxingrichu/five_business/blob/master/person/day136-day140.md)
 
 ### 时间管理 ###
 
