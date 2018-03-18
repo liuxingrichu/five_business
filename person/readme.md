@@ -14,6 +14,9 @@
 ### 时间管理 ###
 - [时间成本](https://github.com/liuxingrichu/five_business/blob/master/person/day141-day145.md)
 - [GTD](https://github.com/liuxingrichu/five_business/blob/master/person/day141-day145.md)
+- [猴子理论](https://github.com/liuxingrichu/five_business/blob/master/person/day141-day145.md)
+- [三八理论](https://github.com/liuxingrichu/five_business/blob/master/person/day141-day145.md)
+- [番茄工作法](https://github.com/liuxingrichu/five_business/blob/master/person/day141-day145.md)
 
 ### 职业素养 ###
 
