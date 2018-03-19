@@ -19,6 +19,11 @@
 - [番茄工作法](https://github.com/liuxingrichu/five_business/blob/master/person/day141-day145.md)
 
 ### 职业素养 ###
+- [微信礼仪](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
+- [邮件礼仪](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
+- [微信礼仪](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
+- [微信礼仪](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
+- [微信礼仪](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
 
 ### 学习能力 ###
 
