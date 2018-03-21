@@ -21,11 +21,13 @@
 ### 职业素养 ###
 - [微信礼仪](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
 - [邮件礼仪](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
-- [微信礼仪](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
-- [微信礼仪](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
-- [微信礼仪](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
+- [时间颗粒度](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
+- [事实与观点](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
+- [职业化](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
 
 ### 学习能力 ###
+
+
 
 ### 思考能力 ###
 
