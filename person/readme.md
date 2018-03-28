@@ -26,8 +26,11 @@
 - [职业化](https://github.com/liuxingrichu/five_business/blob/master/person/day146-day150.md)
 
 ### 学习能力 ###
-
-
+- [幸存者偏见](https://github.com/liuxingrichu/five_business/blob/master/person/day151-day155.md)
+- [库博学习圈](https://github.com/liuxingrichu/five_business/blob/master/person/day151-day155.md)
+- [知识技能态度](https://github.com/liuxingrichu/five_business/blob/master/person/day151-day155.md)
+- [](https://github.com/liuxingrichu/five_business/blob/master/person/day151-day155.md)
+- [](https://github.com/liuxingrichu/five_business/blob/master/person/day151-day155.md)
 
 ### 思考能力 ###
 
