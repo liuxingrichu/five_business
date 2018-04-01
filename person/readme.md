@@ -32,6 +32,12 @@
 - [私人董事会](https://github.com/liuxingrichu/five_business/blob/master/person/day151-day155.md)
 - [快速学习](https://github.com/liuxingrichu/five_business/blob/master/person/day151-day155.md)
 
+---
+- [VIPKID 米雯娟]()
+	- 客座教授 人工智能 + 教师 = 未来教育生态系统
+- 加餐
+	- 别错过52次向商业偶像偷师的机会
+		- 前30期 人物清单
 ### 思考能力 ###
 
 ### 逻辑思维 ###
