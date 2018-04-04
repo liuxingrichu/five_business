@@ -43,7 +43,7 @@
 - [评判性思维](https://github.com/liuxingrichu/five_business/blob/master/person/day156-day160.md)
 - [全局之眼](https://github.com/liuxingrichu/five_business/blob/master/person/day156-day160.md)
 - [逆向思维](https://github.com/liuxingrichu/five_business/blob/master/person/day156-day160.md)
-- [](https://github.com/liuxingrichu/five_business/blob/master/person/day156-day160.md)
+- [正向思维](https://github.com/liuxingrichu/five_business/blob/master/person/day156-day160.md)
 
 
 
