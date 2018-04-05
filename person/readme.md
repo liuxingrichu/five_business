@@ -45,10 +45,8 @@
 - [逆向思维](https://github.com/liuxingrichu/five_business/blob/master/person/day156-day160.md)
 - [正向思维](https://github.com/liuxingrichu/five_business/blob/master/person/day156-day160.md)
 
-
-
-
 ### 逻辑思维 ###
+- [同一律]()
 
 ### 谈判能力 ###
 
