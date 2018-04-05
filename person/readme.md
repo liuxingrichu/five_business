@@ -46,7 +46,11 @@
 - [正向思维](https://github.com/liuxingrichu/five_business/blob/master/person/day156-day160.md)
 
 ### 逻辑思维 ###
-- [同一律]()
+- [同一律](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
+- [](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
+- [](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
+- [](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
+- [](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
 
 ### 谈判能力 ###
 
