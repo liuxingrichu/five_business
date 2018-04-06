@@ -47,8 +47,8 @@
 
 ### 逻辑思维 ###
 - [同一律](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
-- [](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
-- [](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
+- [矛盾律](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
+- [排中律](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
 - [](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
 - [](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
 
