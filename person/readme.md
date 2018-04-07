@@ -49,8 +49,8 @@
 - [同一律](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
 - [矛盾律](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
 - [排中律](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
-- [](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
-- [](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
+- [三段论](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
+- [归纳法](https://github.com/liuxingrichu/five_business/blob/master/person/day161-day165.md)
 
 ### 谈判能力 ###
 
